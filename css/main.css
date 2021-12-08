@@ -1,0 +1,16 @@
+body {
+    background-color: #aaa;
+}
+
+.slider{
+    height: 100px;
+    width: 100px;
+    /* overflow: hidden; */
+}
+
+.slick-item {
+    height: 50px;
+    width: 100px;
+    background-color: purple;
+    margin: 10px;
+}
